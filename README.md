@@ -2,7 +2,7 @@
 
 
 <h3>Olá, olha eu aqui!Legiano 🙋‍♂️</h3>
-<h4>Estudando backend 📚</h4>
+<h4>Estudando Front-end 📚</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=Legiano&show_icons=true&theme=highcontrast" alt="Legiano GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legiano&hide_progress=danut" alt="Legiano GitHub stats">
 <h1>Tecnologias ⚙️</h1>
