@@ -1,6 +1,4 @@
 
-
-
 <h3>Olá, olha eu aqui!Legiano 🙋‍♂️</h3>
 <h4>Estudando Front-end 📚</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=Legiano&show_icons=true&theme=highcontrast" alt="Legiano GitHub stats">
@@ -14,7 +12,7 @@
 </div>
  <p>"Persistência, paixão e um toque de criatividade - navegando pelos<br>
      bits e bytes em busca de soluções inovadoras."  </p>
-        <a href="https://www.linkedin.com/in/legiano-lucio/">
+        <a href="https://www.linkedin.com/in/legiano-fernandes/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkden">
         </a> 
 
