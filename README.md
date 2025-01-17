@@ -1,8 +1,8 @@
-<h3 align="left">Olá, olha eu aqui! Legiano 🙋‍♂️</h3>
+<h2 align="left">Olá, olha eu aqui! Legiano 🙋‍♂️</h2>
 
 ###
 
-<p align="left">🎓 📚 Studying Front-end and Back-end</p>
+<h3 align="left">🎓 📚 Studying Front-end and Back-end</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">⚙️ Technology</p>
+<h3 align="left">⚙️ Technology</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">📬 Contacts</p>
+<h3 align="left">📬 Contacts</h3>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<p align="left">🤖 Thank you for visiting my profile!</p>
+<h3 align="left">🤖 Thank you for visiting my profile!</h3>
 
 ###
 
