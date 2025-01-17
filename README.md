@@ -1,4 +1,4 @@
-<h2 align="left">Olá, olha eu aqui! Legiano 🙋‍♂️</h2>
+<h2 align="center">Olá, olha eu aqui! Legiano 🙋‍♂️</h2>
 
 ###
 
@@ -40,6 +40,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Legiano/Legiano/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h3 align="left">📬 Contacts</h3>
 
 ###
@@ -48,16 +54,11 @@
   <a href="https://www.legianofernandes@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/legiano-fernandes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/legianofernandes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Legiano/Legiano/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -65,6 +66,6 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Legiano.Legiano&left_color=darkgray"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Legiano.Legiano&left_color=black"  />
 
 ###
