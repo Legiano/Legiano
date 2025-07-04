@@ -7,13 +7,16 @@
 ###
 
 <h3 align="left">🛠️ Estatísticas</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Legiano&show_icons=true&include_all_commits=true&count_private=true&theme=default" style="width: 45%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legiano&layout=compact&langs_count=5&theme=default" style="width: 45%;" />
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Legiano&show_icons=true&include_all_commits=true&count_private=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legiano&layout=compact&langs_count=5&theme=default" height="150" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legiano&theme=github-light" style="width: 90%;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legiano&theme=github-light&hide_border=true&area=true" width="100%" />
 </div>
 
 ###
