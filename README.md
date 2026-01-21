@@ -44,7 +44,7 @@
 <br clear="both" />
 
 <!-- Snake animation (opcional - precisa configurar GitHub Actions) -->
-<!-- <img src="https://raw.githubusercontent.com/Legiano/Legiano/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/Legiano/Legiano/output/snake.svg" alt="Snake animation" /> 
 
 ###
 
