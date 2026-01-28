@@ -1,4 +1,5 @@
-<h2 align="center">Olá, olha eu aqui! Legiano 🙋‍♂️</h2>
+<h2 align="center">Olá! Eu sou o Legiano 🚀</h2>
+<p align="center">Construindo soluções web enquanto estudo TSI</p>
 
 ###
 
