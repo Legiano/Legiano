@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:02569B&height=200&section=header&text=Legiano%20Rodrigues&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20em%20formação%20|%20TSI%20@%20IFMS&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Olá!+Me+Chamo+Legiano+;Estudante+de+TSI+no+IFMS;Desenvolvedor+Flutter+%26+Web;Construindo+soluções+para+cidades+inteligentes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Olá!+Me+Chamo+Legiano!+;Estudante+de+TSI+no+IFMS;Desenvolvedor+Flutter+%26+Web;Construindo+soluções+para+cidades+inteligentes)](https://git.io/typing-svg)
 
 </div>
 
