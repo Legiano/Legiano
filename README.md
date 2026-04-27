@@ -68,10 +68,12 @@
 
 ---
 
-## 🏆 Troféus
+## 🚀 Projeto em Destaque
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Legiano&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" width="60%" />
+
+[![Cidade Fácil](https://github-readme-stats.vercel.app/api/pin/?username=Legiano&repo=Cidade_Facil&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Legiano/Cidade_Facil)
+
 </div>
 
 ---
