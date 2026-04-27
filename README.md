@@ -72,7 +72,10 @@
 
 <div align="center">
 
-[![Cidade Fácil](https://github-readme-stats.vercel.app/api/pin/?username=Legiano&repo=Cidade_Facil&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Legiano/Cidade_Facil)
+| 📱 Cidade Fácil |
+|---|
+| Aplicativo mobile desenvolvido com **Flutter** e **Firebase** para registro e acompanhamento de ocorrências urbanas na cidade de Coxim - MS. Desenvolvido como projeto de TCC no IFMS. |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 
 </div>
 
