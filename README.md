@@ -71,7 +71,7 @@
 ## 🏆 Troféus
 
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Legiano&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=Legiano&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" width="60%" />
 </div>
 
 ---
