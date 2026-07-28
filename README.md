@@ -22,9 +22,8 @@
 ## 🛠️ Estatísticas
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Legiano/Legiano/main/metrics.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Legiano/Legiano/main/metrics.svg" />
 </div>
-
 ---
 
 ## ⚙️ Tecnologias e Ferramentas
