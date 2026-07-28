@@ -22,16 +22,7 @@
 ## 🛠️ Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Legiano&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legiano&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Legiano&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legiano&theme=tokyo-night&hide_border=true&area=true&count_private=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/Legiano/Legiano/main/metrics.svg" width="100%" />
 </div>
 
 ---
