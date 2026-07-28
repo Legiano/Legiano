@@ -61,14 +61,13 @@
 
 ## 🚀 Projeto em Destaque
 
-<div align="center">
-
-| 📱 Cidade Fácil |
-|---|
-| Aplicativo mobile desenvolvido com **Flutter** e **Firebase** para registro e acompanhamento de ocorrências urbanas na cidade de Coxim - MS. Desenvolvido como projeto de TCC no IFMS. |
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-
-</div>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 📱 **[Cidade Fácil](https://github.com/Legiano/Cidade_Facil)** | App mobile para registro de ocorrências urbanas em Coxim-MS. TCC do IFMS. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| 🌱 **[AgroGota](https://github.com/Legiano/agrogota)** | App offline que calcula irrigação ideal para agricultura familiar. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| 💅 **[ElaBella](https://github.com/Legiano/elabella-sistema-agendamento)** | Sistema de agendamento para salões de beleza. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
+| 📦 **[Sistema de Eventos IFMS](https://github.com/Legiano/sistema-eventos-ifms)** | Gestão de eventos institucionais do IFMS - Campus Coxim. | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| 🪢 **[Jogo da Forca](https://jogo-da-forca-ten-iota.vercel.app)** | Jogo da forca com ranking, dicas e pontuação. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
